@@ -7,7 +7,9 @@ The labs are used to practice network configuration, routing, and data center de
 
 ## 📘 Partial Exam 1 – RIP/OSPF Network Configuration
 
-This section includes labs used to prepare for the **first midterm**, focusing on fundamental networking concepts and basic router/switch configuration.
+This section contains the labs used to prepare for the **first midterm**, covering **RIP and OSPF routing protocols**.  
+The labs focus on configuring routers, understanding basic network topologies, and practicing both single-area and multi-area OSPF scenarios.
+
 
 **LABS:**
 
