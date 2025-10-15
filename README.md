@@ -27,7 +27,7 @@ The labs focus on configuring routers, understanding basic network topologies, a
 
 ---
 
-## 🌐 Esonero 2 – 
+## 🌐 Partial Exam 2 – 
 
 
 
@@ -35,7 +35,7 @@ The labs focus on configuring routers, understanding basic network topologies, a
 
 ---
 
-## 🧩 Esonero 3 – 
+## 🧩 Partial Exam 3 – 
 
 
 
@@ -43,7 +43,7 @@ The labs focus on configuring routers, understanding basic network topologies, a
 
 ---
 
-## ☁️ Esonero 4 – 
+## ☁️ Partial Exam 4 – 
 
 
 
