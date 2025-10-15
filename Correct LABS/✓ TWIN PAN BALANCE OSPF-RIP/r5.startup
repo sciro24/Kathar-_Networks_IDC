@@ -1,0 +1,18 @@
+ip address add 50.0.0.1/24 dev eth0
+ip address add 50.0.2.1/24 dev eth1
+ip address add 50.0.4.1/24 dev eth2
+
+
+systemctl start frr
+
+
+
+
+
+
+
+
+
+
+#SE ROUTER COLLEGATO CON ROUTER DI UN'ALTRA AREA (RIP):
+#ip route add 30.0.0.0/16 via 10.0.0.2 dev eth1

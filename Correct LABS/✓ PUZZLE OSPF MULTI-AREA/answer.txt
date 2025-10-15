@@ -1,0 +1,5 @@
+a) Router-ID di b02:      100.20.2.21
+
+b) Designated Router per la LAN E:    100.20.2.21 (ROUTER b02)
+
+c) Quali Router hanno la default route 0/0 nella tabella di Routing Zebra: r12, r11, r21, r31

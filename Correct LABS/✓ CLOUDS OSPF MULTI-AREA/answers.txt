@@ -1,0 +1,5 @@
+1)Router ID (r21): 120.20.3.2
+
+2) Designated Router ID LAN G: 
+
+3)Rotte default 0/0 in Zebra Routing of r21: 2}
