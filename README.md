@@ -13,15 +13,16 @@ The labs focus on configuring routers, understanding basic network topologies, a
 
 **LABS:**
 
-- ⚙️ [BUTTERFLY (OSPF - RIP)](./Correct_LABS/butterfly_ospf_rip/)
-- ⚙️ [CLOUDS (OSPF MULTI-AREA)](./Correct_LABS/clouds_ospf_multi_area/)
-- ⚙️ [FALLING ASLEEP (OSPF - RIP)](./Correct_LABS/falling_asleep/)
-- ⚙️ [MARACAS (OSPF - RIP)](./Correct_LABS/maracas_ospf_rip/)
-- ⚙️ [PUZZLE (OSPF MULTI-AREA)](./Correct_LABS/puzzle_ospf_multi_area/)
-- ⚙️ [STREET LIGHT (OSPF - RIP)](./Correct_LABS/street_light_ospf_rip/)
-- ⚙️ [TENNIS (OSPF - RIP)](./Correct_LABS/tennis_ospf_rip/)
-- ⚙️ [TWIN PAN BALANCE (OSPF - RIP)](./Correct_LABS/twin_pan_balance_ospf_rip/)
-- ⚙️ [UP ARROW OSPF (RIP 2 BORDER)](./Correct_LABS/up_arrow_ospf_rip_2border/)
+- ⚙️ [BUTTERFLY (OSPF - RIP)](./Correct%20LABS/%E2%9C%93%20BUTTERFLY%20%28OSPF%20-%20RIP%29/)
+- ⚙️ [CLOUDS (OSPF MULTI-AREA)](./Correct%20LABS/%E2%9C%93%20CLOUDS%20%28OSPF%20MULTI-AREA%29/)
+- ⚙️ [FALLING ASLEEP (OSPF - RIP)](./Correct%20LABS/%E2%9C%93%20FALLING%20ASLEEP%20%28OSPF%20-%20RIP%29/)
+- ⚙️ [MARACAS (OSPF - RIP)](./Correct%20LABS/%E2%9C%93%20MARACAS%20%28OSPF%20-%20RIP%29/)
+- ⚙️ [PUZZLE (OSPF MULTI-AREA)](./Correct%20LABS/%E2%9C%93%20PUZZLE%20%28OSPF%20MULTI-AREA%29/)
+- ⚙️ [STREET LIGHT (OSPF - RIP)](./Correct%20LABS/%E2%9C%93%20STREET%20LIGHT%20%28OSPF%20-%20RIP%29/)
+- ⚙️ [TENNIS (OSPF - RIP)](./Correct%20LABS/%E2%9C%93%20TENNIS%20%28OSPF%20-%20RIP%29/)
+- ⚙️ [TWIN PAN BALANCE (OSPF - RIP)](./Correct%20LABS/%E2%9C%93%20TWIN%20PAN%20BALANCE%20%28OSPF%20-%20RIP%29/)
+- ⚙️ [UP ARROW OSPF (RIP 2 BORDER)](./Correct%20LABS/%E2%9C%93%20UP%20ARROW%20OSPF%20%20%28RIP%202%20BORDER%29/)
+
 
 
 ---
