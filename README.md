@@ -11,23 +11,15 @@ This section includes labs used to prepare for the **first midterm**, focusing o
 
 **LABS:**
 
-⚙️ [✓ BUTTERFLY OSPF - RIP](./Correct%20LABS/✓%20BUTTERFLY%20OSPF%20-%20RIP/)
-
-⚙️ [✓ CLOUDS OSPF MULTI-AREA](./Correct%20LABS/✓%20CLOUDS%20OSPF%20MULTI-AREA/)
-
-⚙️ [✓ FALLING ASLEEP](./Correct%20LABS/✓%20FALLING%20ASLEEP/)
-
-⚙️ [✓ MARACAS OSPF - RIP](./Correct%20LABS/✓%20MARACAS%20OSPF%20-%20RIP/)
-
-⚙️ [✓ PUZZLE OSPF MULTI-AREA](./Correct%20LABS/✓%20PUZZLE%20OSPF%20MULTI-AREA/)
-
-⚙️ [✓ STREET LIGHT OSPF - RIP](./Correct%20LABS/✓%20STREET%20LIGHT%20OSPF%20-%20RIP/)
-
-⚙️ [✓ TENNIS OSPF - RIP](./Correct%20LABS/✓%20TENNIS%20OSPF%20-%20RIP/)
-
-⚙️ [✓ TWIN PAN BALANCE OSPF - RIP](./Correct%20LABS/✓%20TWIN%20PAN%20BALANCE%20OSPF%20-%20RIP/)
-
-⚙️ [✓ UP ARROW OSPF - RIP (2 BORDER)](./Correct%20LABS/✓%20UP%20ARROW%20OSPF%20-%20RIP%20(2%20BORDER)/)
+- ⚙️ [BUTTERFLY (OSPF - RIP)](./Correct_LABS/butterfly_ospf_rip/)
+- ⚙️ [CLOUDS (OSPF MULTI-AREA)](./Correct_LABS/clouds_ospf_multi_area/)
+- ⚙️ [FALLING ASLEEP (OSPF - RIP)](./Correct_LABS/falling_asleep/)
+- ⚙️ [MARACAS (OSPF - RIP)](./Correct_LABS/maracas_ospf_rip/)
+- ⚙️ [PUZZLE (OSPF MULTI-AREA)](./Correct_LABS/puzzle_ospf_multi_area/)
+- ⚙️ [STREET LIGHT (OSPF - RIP)](./Correct_LABS/street_light_ospf_rip/)
+- ⚙️ [TENNIS (OSPF - RIP)](./Correct_LABS/tennis_ospf_rip/)
+- ⚙️ [TWIN PAN BALANCE (OSPF - RIP)](./Correct_LABS/twin_pan_balance_ospf_rip/)
+- ⚙️ [UP ARROW OSPF (RIP 2 BORDER)](./Correct_LABS/up_arrow_ospf_rip_2border/)
 
 
 ---
